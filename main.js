@@ -166,3 +166,4 @@ function Delete2() {
 _INTERVAL_VAL_X = setInterval(Type1, 100);
 //_INTERVAL_VAL_Y = setInterval(Type3, 100);
 _INTERVAL_VAL= setInterval(Type2, 100);
+
