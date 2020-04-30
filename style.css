@@ -214,10 +214,14 @@ width: 90%;
 
 }
   .x1,
-  .y1,
 .z1{
  display: inline;
    border-bottom: 3px solid #33A992 ;
+}
+
+.y1 {
+	 display: inline;
+   border-bottom: 3px solid #0377fc ;
 }
 .blurb{
   position: absolute;
