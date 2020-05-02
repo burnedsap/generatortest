@@ -24,6 +24,7 @@ body{
   background-color: #EDEDED;
   color: #EDEDED;
 }
+
 .close{
 
   cursor:pointer;
@@ -102,6 +103,9 @@ footer{
   padding-bottom:1px;
 }
 .artwork{
+  padding-left: 20px;
+  font-family: 'Space Mono', monospace;
+  font-size: 18px;
   position: relative;
   top:0;
   left:0;
